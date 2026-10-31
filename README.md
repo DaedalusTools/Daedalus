@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/12ef70e9-2b3b-49ae-a74a-87d16bcbb3b4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f6ebc170-5ced-4805-8550-7ec78ff2afd9">
-  <img alt="Daedalus logo" src="https://github.com/user-attachments/assets/f6ebc170-5ced-4805-8550-7ec78ff2afd9" width="50%">
-</picture>
+<img alt="Daedalus logo" src="https://github.com/user-attachments/assets/12ef70e9-2b3b-49ae-a74a-87d16bcbb3b4#gh-dark-mode-only" width="50%">
+<img alt="Daedalus logo" src="https://github.com/user-attachments/assets/f6ebc170-5ced-4805-8550-7ec78ff2afd9#gh-light-mode-only" width="50%">
 
 ---
 Daedalus is an editor for creating Portal 2 test chambers that builds on the original Portal 2 Puzzle Maker (PETI) to provide enhanced features.
