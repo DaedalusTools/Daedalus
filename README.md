@@ -8,6 +8,7 @@ It is an independant application, not affiliated with Valve.
 ## What makes it different
 
 - Supports an unlimited number of custom items, beyond the original 32 limit.
+- Scriptable item package system implemented in AngelScript
 - Resizable grid allows creating detailed test chamber geometry at 128, 64, or 32 unit scales.
 - Adds customizable color themes for UI.
 - A plethora of bug fixes for issues in PETI.
@@ -15,7 +16,7 @@ It is an independant application, not affiliated with Valve.
 
 ## Download and install
 
-Download the latest release from [Releases](https://github.com/ElliotElison/Daedalus/releases).
+Download the latest release from [Releases](https://github.com/DaedalusTools/Daedalus/releases).
 
 - **Installer:** Run the Windows x64 setup file; administrator access is not required.
 - **Portable:** Extract the complete ZIP to a writable folder and run `bin\daedalus.exe`.
@@ -24,7 +25,7 @@ Requires Windows 10 version 1809 or later and an OpenGL-capable graphics driver.
 
 ## Report an issue
 
-Please [open an issue](https://github.com/ElliotElison/Daedalus/issues) and include the Daedalus version, Windows version, steps to reproduce, and what you expected versus what happened. Screenshots are helpful.
+Please [open an issue](https://github.com/DaedalusTools/Daedalus/issues) and include the Daedalus version, Windows version, steps to reproduce, and what you expected versus what happened. Screenshots are helpful.
 
 ## Open-source plans
 
