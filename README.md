@@ -8,10 +8,12 @@ It is an independant application, not affiliated with Valve.
 ## What makes it different
 
 - Supports an unlimited number of custom items, beyond the original 32 limit.
-- Scriptable item package system implemented in AngelScript
+- Scriptable item package system implemented in AngelScript.
 - Resizable grid allows creating detailed test chamber geometry at 128, 64, or 32 unit scales.
+- Arbitrary antline position adjustment.
 - Adds customizable color themes for UI.
 - A plethora of bug fixes for issues in PETI.
+- Discord integration.
 - So much more!
 
 ## Download and install
