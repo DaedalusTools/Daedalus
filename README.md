@@ -32,3 +32,8 @@ Please [open an issue](https://github.com/DaedalusTools/Daedalus/issues) and inc
 ## Open-source plans
 
 Daedalus is currently available in a beta state. Public release of the source code is planned for version 1.0.0, coming in the first half of 2027.
+
+## A.I. Generated content disclosure
+
+GitHub Copilot was used in the making of Daedalus to assist with coding tasks. A significant portion of this was a locally hosted ollama qwen3.5 model.
+Additionally, copilot was used in conjunction with photoshop to clean up noise and artifacts on some of the item icons.
