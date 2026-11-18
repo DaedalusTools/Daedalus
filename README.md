@@ -3,12 +3,14 @@
 
 ---
 Daedalus is an editor for creating Portal 2 test chambers that builds on the original Portal 2 Puzzle Maker (PETI) to provide enhanced features.
-It is an independant application, not affiliated with Valve.
+
+<img width="2557" height="1348" alt="image" src="https://github.com/user-attachments/assets/7275b50c-9c53-4ecc-991c-62e7ff0b913d" />
 
 ## What makes it different
 
-- Supports an unlimited number of custom items, beyond the original 32 limit.
+- Scrollable palette with support for an unlimited number of custom items, beyond the original 32 limit.
 - Scriptable item package system implemented in AngelScript.
+- Ports of many items from [BEE2](https://github.com/BEEmod/BEE2.4). Daedalus includes TeamSpen210's [HammerAddons](https://github.com/TeamSpen210/HammerAddons/tree/master).
 - Resizable grid allows creating detailed test chamber geometry at 128, 64, or 32 unit scales.
 - Arbitrary antline position adjustment.
 - Adds customizable color themes for UI.
@@ -31,9 +33,11 @@ Please [open an issue](https://github.com/DaedalusTools/Daedalus/issues) and inc
 
 ## Open-source plans
 
-Daedalus is currently available in a beta state. Public release of the source code is planned for version 1.0.0, coming in the first half of 2027.
+Daedalus is currently available in a beta state. Public release of the source code is planned for version 1.0.0, coming in the first half of 2027. This is to provide enough time to fix major bugs without accidentally breaking backwards compatibility with custom user-created item packages.
 
-## A.I. Generated content disclosure
+## Generated content disclosure
+GitHub Copilot was used in the making of Daedalus to assist with coding tasks and minor visual enhancements such as removing noise from compressed textures.
 
-GitHub Copilot was used in the making of Daedalus to assist with coding tasks. A significant portion of this was a locally hosted ollama qwen3.5 model.
-Additionally, copilot was used in conjunction with photoshop to clean up noise and artifacts on some of the item icons.
+<br>
+
+*Daedalus is an independent application, not affiliated with Valve.*
