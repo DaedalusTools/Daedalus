@@ -4,7 +4,7 @@
 ---
 Daedalus is an editor for creating Portal 2 test chambers that builds on the original Portal 2 Puzzle Maker (PETI) to provide enhanced features.
 
-<img width="2557" height="1348" alt="image" src="https://github.com/user-attachments/assets/7275b50c-9c53-4ecc-991c-62e7ff0b913d" />
+<img width="2557" height="1348" alt="image" src="./README_showcase.gif" />
 
 ## What makes it different
 
